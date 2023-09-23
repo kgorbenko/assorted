@@ -1,0 +1,7 @@
+﻿### /runtime-validation-error
+GET http://localhost:5001/runtime-validation-error
+Accept: application/json
+
+### /startup-validation-error
+GET http://localhost:5001/startup-validation-error
+Accept: application/json
