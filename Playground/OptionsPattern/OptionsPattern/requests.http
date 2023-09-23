@@ -1,0 +1,19 @@
+﻿### /ioptions
+GET http://localhost:5000/ioptions
+Accept: application/json
+
+### /ioptionssnapshot-singleton
+GET http://localhost:5000/ioptionssnapshot-singleton
+Accept: application/json
+
+### /optionsmonitor-singleton
+GET http://localhost:5000/optionsmonitor-singleton
+Accept: application/json
+
+### /ioptionssnapshot-scoped
+GET http://localhost:5000/ioptionssnapshot-scoped
+Accept: application/json
+
+### /optionsmonitor-scoped
+GET http://localhost:5000/optionsmonitor-scoped
+Accept: application/json
